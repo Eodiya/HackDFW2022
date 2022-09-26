@@ -1,0 +1,140 @@
+{
+    "food": [
+        {
+            "meat": [
+                {
+                    "beef": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "chicken": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "pork": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "veggie": [
+                {
+                    "cabbage": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "corn": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "cucumber": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "eggplant": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "spinach": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "mushroom": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "tomato": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "avocado": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+           "root": [
+            {
+                "potato": [
+                    {
+                        "date": "",
+                        "quantity": "",
+                        "exp_date": ""
+                    }
+                ],
+                "carrot": [
+                    {
+                        "date": "",
+                        "quantity": "",
+                        "exp_date": ""
+                    }
+                ],
+                "onion": [
+                    {
+                        "date": "",
+                        "quantity": "",
+                        "exp_date": ""
+                    }
+                ]
+            }
+           ]
+        },
+        {
+            "seafood": [
+                {
+                    "Shellfish": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ],
+                    "Fish": [
+                        {
+                            "date": "",
+                            "quantity": "",
+                            "exp_date": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
